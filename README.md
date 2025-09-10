@@ -13,18 +13,18 @@ Essa vivência me ensinou a **equilibrar a visão estratégica com a execução 
 
 ---
 
-## 🚀 Objetivo de Carreira  
+## Objetivo de Carreira  
 Consolidar minha atuação em **dados e BI aplicados a finanças e negócios**, sendo um elo entre análise de informações e tomada de decisão. Quero me tornar referência em transformar dados em insights que **gerem impacto real**, tanto em performance financeira quanto em crescimento empresarial.  
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+## Habilidades Técnicas  
 - **Business Intelligence:** Power BI, Excel Avançado, Google Sheets.  
 - **Linguagens & Automação:** SQL, Python (pandas, numpy, matplotlib).  
 - **Gestão Financeira & Administrativa:** ERPs, CRMs, relatórios gerenciais.  
 - **Marketing & Performance:** Google Analytics, métricas de campanhas digitais.
 
-  ## 🎲 Data Science Portfolio  
+  ## Data Science Portfolio  
 
 - Confira meu portfólio de projetos em dados e BI.  
   Lá você encontrará análises exploratórias, dashboards e modelos preditivos aplicados a problemas de negócios.  
@@ -34,12 +34,13 @@ Consolidar minha atuação em **dados e BI aplicados a finanças e negócios**, 
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x250.png?text=Ernany+Amaral+%7C+An%C3%A1lise+e+Ci%C3%AAncia+de+Dados" alt="Banner Ernany Amaral">
+  <img src="Capa.png" alt="Banner Ernany Amaral">
 </p>
+
 
 ---
 
-## 🌎 Meus contatos 
+## Meus contatos 
 
 - [LinkedIn](https://www.linkedin.com/in/ernanyamaral)  
 - [GitHub](https://github.com/Ernany34)  
