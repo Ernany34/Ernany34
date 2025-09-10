@@ -39,7 +39,7 @@ Consolidar minha atuação em **dados e BI aplicados a finanças e negócios**, 
 
 ---
 
-## 🌎 Meu contato  
+## 🌎 Meus contatos 
 
 - [LinkedIn](https://www.linkedin.com/in/ernanyamaral)  
 - [GitHub](https://github.com/Ernany34)  
