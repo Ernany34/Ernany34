@@ -24,7 +24,7 @@ Consolidar minha atuação em **dados e BI aplicados a finanças e negócios**, 
 - **Gestão Financeira & Administrativa:** ERPs, CRMs, relatórios gerenciais.  
 - **Marketing & Performance:** Google Analytics, métricas de campanhas digitais.
 
-  ## Data Science Portfolio  
+## Data Science Portfolio  
 
 - Confira meu portfólio de projetos em dados e BI.  
   Lá você encontrará análises exploratórias, dashboards e modelos preditivos aplicados a problemas de negócios.  
